@@ -26,7 +26,7 @@ Decori é um site totalmente responsivo e com animações
 
 
 ### Objetivo
-Práticar principais recursos de HTML, CSS e Javascript. Entre eles:
+Praticar principais recursos de HTML, CSS e Javascript. Entre eles:
 
 - Responsividade
 - Animações
